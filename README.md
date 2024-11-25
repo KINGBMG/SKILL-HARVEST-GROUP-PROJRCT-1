@@ -1,5 +1,5 @@
 # SKILL-HARVEST-GROUP-PROJRCT-1
-# GROUP-1 DATA ANALYSIS PROJECT  
+## GROUP-1 DATA ANALYSIS PROJECT  
 **Analysis of Agricultural Product Sales, Supply, and Pricing**
 
 ---
@@ -110,9 +110,9 @@ The dashboards provided an overview of:
 ### Screenshots  
 Below are screenshots from the Power BI dashboards:  
 ![Power BI Desktop 11_21_2024 10_41_21 AM](https://github.com/user-attachments/assets/79905e1f-96ef-4870-be1d-a38c527e41a3)
+
 [Power BI Desktop 11_21_2024 10_41_35 AM](https://github.com/user-attachments/assets/e66657fb-a78a-4f9a-9933-a18e63b045a0)
 
-> **Note:** Replace `path/to/screenshot1.png` and `path/to/screenshot2.png` with the actual paths or URLs to your screenshots.  
 
 ---
 
